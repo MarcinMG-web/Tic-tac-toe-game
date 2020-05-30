@@ -8,7 +8,7 @@ This is my first step in React. Very simple game that:
 
 It is an application that consolidates the scope of the online course material.
 
-If you want to play.Download project on yours PC. Open the terminal and install packages.
+If you want to play. Download project on yours PC. Open the terminal and install packages.
 
 1. Open project file
 2. npm install
