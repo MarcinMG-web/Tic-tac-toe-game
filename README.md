@@ -2,9 +2,9 @@
 
 This is my first step in React. Very simple game that:
 
--informs you when any player wins;
--keeps a history of movements;
--allows you to view the history of moves and, consequently, subsequent board states.
+ - informs you when any player wins;
+ - keeps a history of movements;
+ - allows you to view the history of moves and, consequently, subsequent board states.
 
 It is an application that consolidates the scope of the online course material.
 
